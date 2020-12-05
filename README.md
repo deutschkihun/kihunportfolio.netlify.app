@@ -1,11 +1,5 @@
-#### React Router Fix
+Hello, people
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+you can reach webpage on the below, which is using this source file as a base code.
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+thank you so much
