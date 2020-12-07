@@ -48,7 +48,7 @@ function CareerPage() {
 
 
                     <div className=" box-two">
-                        <a href="https://drive.google.com/file/d/1JKlFxmHUJR0E9LBZSnU08UwxhsqOPnuP/view?usp=sharing"  rel="noopener noreferrer" target="_blank">
+                        <a href="https://drive.google.com/file/d/19lAc0fSmyZFhcAbd2VanNZZ-xClCQCSQ/view?usp=sharing"  rel="noopener noreferrer" target="_blank">
                             <Button>Download CV</Button>
                         </a>
                         &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
