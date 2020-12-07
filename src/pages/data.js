@@ -93,8 +93,8 @@ const projects = [
     img: onlineshop,
     desc : `online shop application with frontend engineering (Javascript, React and Redux). It contains product listing, 
             favorite marking, adding on basket, ordering and search engine.  `,
-    completion : 'done',
-    link : 'https://github.com/deutschkihun/kihunportfolio.netlify.app'
+    completion : 'In progress',
+    link : 'https://github.com/deutschkihun/onlineshop'
   },
 ];
 export default projects; 
