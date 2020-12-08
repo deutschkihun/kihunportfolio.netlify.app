@@ -5,6 +5,7 @@ import webpage from './common/dataimage/webpage.jpg'
 import youtubeclone from './common/dataimage/youtubeclone.jpg'
 import awsdocker from './common/dataimage/awsdocker.jpg'
 import onlineshop from './common/dataimage/onlineshop.jpg'
+import seminar from './common/dataimage/seminar.png'
 const projects = [
   {
     id: 1,
@@ -86,15 +87,24 @@ const projects = [
     completion : 'done',
     link : 'https://drive.google.com/file/d/1e9xVoGmGm_URno6UVj0ZIlp8h6Rf6wUE/view?usp=sharing'
   },
-   {
-    id: 8,
-    title : 'online e-commerce shop',
-    stack: 'Javascript,React,Redux',
-    img: onlineshop,
-    desc : `online shop application with frontend engineering (Javascript, React and Redux). It contains product listing, 
-            favorite marking, adding on basket, ordering and search engine.  `,
-    completion : 'In progress',
-    link : 'https://github.com/deutschkihun/onlineshop'
+  {
+  id: 8,
+  title : 'online e-commerce shop',
+  stack: 'Javascript,React,Redux',
+  img: onlineshop,
+  desc : `online shop application with frontend engineering (Javascript, React and Redux). It contains product listing, 
+          favorite marking, adding on basket, ordering and search engine.  `,
+  completion : 'In progress',
+  link : 'https://github.com/deutschkihun/onlineshop'
+  },
+  {
+  id: 9,
+  title : 'seminar: object detection in steel industry',
+  stack: 'python3.7,numpy,pandas tensorflow1.15.4, openCV4.4.0',
+  img: seminar,
+  desc : `University seminar about object detection with deep learing in steel industry.`,
+  completion : 'In progress',
+  link : 'https://drive.google.com/drive/u/0/folders/1hN4a45Bf4Kmi2Qo3M4aMJNym2l_lSqka'
   },
 ];
 export default projects; 
