@@ -4,7 +4,7 @@ import moiveapp from './common/dataimage/movieapp.jpg'
 import webpage from './common/dataimage/webpage.jpg'
 import youtubeclone from './common/dataimage/youtubeclone.jpg'
 import awsdocker from './common/dataimage/awsdocker.jpg'
-import onlineshop from './common/dataimage/onlineshop.jpg'
+import sport from './common/dataimage/sport.png'
 import seminar from './common/dataimage/seminar.png'
 const projects = [
   {
@@ -89,13 +89,13 @@ const projects = [
   },
   {
   id: 8,
-  title : 'online e-commerce shop',
+  title : 'sport DB application',
   stack: 'Javascript,React,Redux',
-  img: onlineshop,
+  img: sport,
   desc : `online shop application with frontend engineering (Javascript, React and Redux). It contains product listing, 
           favorite marking, adding on basket, ordering and search engine.  `,
-  completion : 'In progress',
-  link : 'https://github.com/deutschkihun/onlineshop'
+  completion : 'done',
+  link : 'https://github.com/deutschkihun/SportDB_Application'
   },
   {
   id: 9,
