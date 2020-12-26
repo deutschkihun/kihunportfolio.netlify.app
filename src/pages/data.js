@@ -6,6 +6,7 @@ import youtubeclone from './common/dataimage/youtubeclone.jpg'
 import awsdocker from './common/dataimage/awsdocker.jpg'
 import sport from './common/dataimage/sport.png'
 import seminar from './common/dataimage/seminar.png'
+import chatapp from './common/dataimage/chatapp.png'
 const projects = [
   {
     id: 1,
@@ -108,12 +109,13 @@ const projects = [
   },
   {
     id: 10,
-    title : 'seminar: object detection in steel industry',
-    stack: 'python3.7,numpy,pandas tensorflow1.15.4, openCV4.4.0',
-    img: seminar,
-    desc : `University seminar about object detection with deep learing in steel industry.`,
+    title : 'Real time chat application',
+    stack: 'firebase,react,redux',
+    img: chatapp,
+    desc : `Real time chat application like what's App. User can create group chat room and send DM (direct message) to individual user.
+            Also this service provides favorite chat room so that user can remember in their own UI`,
     completion : 'In progress',
-    link : 'https://drive.google.com/drive/u/0/folders/1hN4a45Bf4Kmi2Qo3M4aMJNym2l_lSqka'
+    link : 'https://github.com/deutschkihun/chat-application'
     },
 ];
 export default projects; 
