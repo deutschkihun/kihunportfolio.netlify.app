@@ -106,5 +106,14 @@ const projects = [
   completion : 'In progress',
   link : 'https://drive.google.com/drive/u/0/folders/1hN4a45Bf4Kmi2Qo3M4aMJNym2l_lSqka'
   },
+  {
+    id: 10,
+    title : 'seminar: object detection in steel industry',
+    stack: 'python3.7,numpy,pandas tensorflow1.15.4, openCV4.4.0',
+    img: seminar,
+    desc : `University seminar about object detection with deep learing in steel industry.`,
+    completion : 'In progress',
+    link : 'https://drive.google.com/drive/u/0/folders/1hN4a45Bf4Kmi2Qo3M4aMJNym2l_lSqka'
+    },
 ];
 export default projects; 
