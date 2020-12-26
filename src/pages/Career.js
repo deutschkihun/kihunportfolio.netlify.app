@@ -10,6 +10,7 @@ import git from './common/git.png'
 import github from './common/github.png'
 import javascript from './common/3stack.png'
 import docker from './common/docker.png'
+import vayu from './common/vayu.png'
 function CareerPage() {
     return (
         <div>
@@ -90,6 +91,14 @@ function CareerPage() {
                     
                     <div className=" box-six">WORKING EXPERIENCE</div>
                     <div className=" box-seven-1">
+                         <p style={{display:'inline-flex'}}>Internship : Web developer</p>
+                        <ul style={{textAlign:'left'}}>
+                            <li>structure low code techonolgie system</li>
+                            <li>frontend development: typescipt, react</li>
+                            <li>UX UI development</li>
+                        </ul>
+                    </div>
+                    <div className=" box-seven-2">
                         <p style={{display:'inline-flex'}}>Working Student</p>
                         <ul style={{textAlign:'left'}}>
                             <li>Customoer recipt data management</li>
@@ -100,25 +109,29 @@ function CareerPage() {
                         </a></li>
                         </ul>
                     </div>
-                    <div className=" box-seven-2">
-                         <p style={{display:'inline-flex'}}>Math Tutor</p>
+                    <div className=" box-seven-3">
+                        <p style={{display:'inline-flex'}}>Math Tutor</p>
                         <ul style={{textAlign:'left'}}>
                             <li>Teaching math for computer sciecne students</li>
                             <li>Explanation of excercise</li>
                             <li>Lead question and answer session</li>
                             <li>Lecture field: Integral,Derivative,log & exponential function</li>
-                            <li><a href="https://drive.google.com/file/d/10wy637QRz0jTBr2QOn4LOPpaR5FTH-Uk/view?usp=sharing" rel="noopener noreferrer" target="_blank">
+                            <li><a href="https://drive.google.com/file/d/10wy637QRz0jTBr2QOn4LOPpaR5FTH-Uk/view" rel="noopener noreferrer" target="_blank">
                             <Button>Employment reference</Button>
                         </a></li>
                         </ul>
                     </div>
-
+                    
                     <div className=" box-eight-1">
-                            <img src={dmtech} width='200' height='130'alt="kit"/>  
+                            <img src={vayu} width='210' height='130'alt="vayu"/>  
                     </div>
                     <div className=" box-eight-2">
+                            <img src={dmtech}
+                         width='200'  height='130'alt="dmtech"/>  
+                    </div>
+                    <div className=" box-eight-3">
                             <img src={mintcolleg}
-                         width='250' height='200'alt="kit"/>  
+                         width='250' height='200'alt="mintcolleg"/>  
                     </div>
                     <div className=" box-nine">PROGRAMMING SKILLS </div>
                     <div className=" box-ten-1">
