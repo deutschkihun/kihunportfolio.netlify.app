@@ -65,3 +65,7 @@ input.error {
   display: inline-block;
   font-size: 20px;
 }
+
+.imageFile {
+  padding: 5% 0rem 0rem 10%;
+}

@@ -96,26 +96,26 @@ const projects = [
   desc : `online shop application with frontend engineering (Javascript, React and Redux). It contains product listing, 
           favorite marking, adding on basket, ordering and search engine.  `,
   completion : 'done',
-  link : 'https://github.com/deutschkihun/SportDB_Application'
+  link : 'https://sportdbapplication.netlify.app/'
   },
   {
   id: 9,
-  title : 'seminar: object detection in steel industry',
-  stack: 'python3.7,numpy,pandas tensorflow1.15.4, openCV4.4.0',
+  title : 'project seminar: object detection in steel industry',
+  stack: 'tensorflow, tensorflow obeject detection API, OpenCV',
   img: seminar,
-  desc : `University seminar about object detection with deep learing in steel industry.`,
-  completion : 'In progress',
+  desc : `digit detection on Ladle(metallurgy) by using Object detection neural network Faster R-CNN, corporation with FZI,IOR and Dillinger Huette `,
+  completion : 'done',
   link : 'https://drive.google.com/drive/u/0/folders/1hN4a45Bf4Kmi2Qo3M4aMJNym2l_lSqka'
   },
   {
     id: 10,
     title : 'Real time chat application',
-    stack: 'firebase,react,redux',
+    stack: 'firebase,react,redux,javascript',
     img: chatapp,
     desc : `Real time chat application like what's App. User can create group chat room and send DM (direct message) to individual user.
             Also this service provides favorite chat room so that user can remember in their own UI`,
     completion : 'In progress',
-    link : 'https://github.com/deutschkihun/chat-application'
+    link : 'https://github.com/deutschkihun/chat-application-firebase'
     },
 ];
 export default projects; 

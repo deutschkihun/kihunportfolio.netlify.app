@@ -20,11 +20,11 @@ function LandingPage() {
                                 width: '100%',
                                 position: 'relative'}}>
 
-                    <div style={{padding: '3rem',marginLeft:'3rem'}}>
+                    <div style={{padding: '3rem 0rem 0rem 10%'}}>
                     <img src={profile} alt="profile"/>
                     </div>
 
-                    <div style={{position:'absolute',maxWidth:'1000px',bottom:'5rem',marginLeft:'11rem',
+                    <div style={{position:'absolute',maxWidth:'1000px',padding:'3% 0rem 0rem 16%',
                     fontFamily:"Comic Sans MS, Comic Sans, cursive",color:'white'}}>
                         <h1 style={{color:'white',fontSize:'3rem',lineHeight:'8px'}}>Kihun Kim</h1>
                         <p style={{fontSize:'1.5rem'}}>Coding Enthusiast</p>
