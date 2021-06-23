@@ -47,7 +47,7 @@ function CareerPage() {
 
 
                     <div className=" box-two">
-                        <a href="https://drive.google.com/drive/folders/1Qs-xBaJ0A-8BdNQOOhxYKbXQw3RQMxuT"  rel="noopener noreferrer" target="_blank">
+                        <a href="https://drive.google.com/file/d/1R3M3-u1jtfyPZcjciQl9LbeAz2mBGtrA/view?usp=sharing"  rel="noopener noreferrer" target="_blank">
                             <Button>Download CV</Button>
                         </a>
                         &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -92,9 +92,11 @@ function CareerPage() {
                         <ul style={{textAlign:'left'}}>
                             <li>low-code platform frontend development</li>
                             <li>Data pipeline frontend development</li>
-                            <li>Project manager for internal software solution project</li>
-                            <li>Typescript, HTML, CSS, JQuery, React</li>
-
+                            <li>leading software development project (online e-commerce platform)</li>
+                            <li>Stack: Typescript, HTML, CSS, JQuery, React</li>
+                            <li><a href="https://drive.google.com/file/d/1H3jcP7kNafsagchGjUGtFMp-aMFs6IkU/view?usp=sharing" rel="noopener noreferrer" target="_blank">
+                            <Button>See Certificate</Button>
+                        </a></li>
                         </ul>
                     </div>
                     <div className=" box-seven-2">
@@ -102,7 +104,7 @@ function CareerPage() {
                         <ul style={{textAlign:'left'}}>
                             <li>Purchase receipt data management</li>
                             <li>Database controlling and error reporting by MYSQL</li>
-                            <li>stack : MySQL</li>
+                            <li>Stack : MySQL</li>
                             <li><a href="https://drive.google.com/file/d/1hcUIODMNDrFPiHijQib1IXmngAGTFtWB/view?usp=sharing" rel="noopener noreferrer" target="_blank">
                             <Button>Employment reference</Button>
                         </a></li>
@@ -177,7 +179,7 @@ function CareerPage() {
                             <li>Skill level : beginner</li>
                             <li>image classfication & object detection</li>
                             <li>issued by Tensorflow team and Google</li>
-                            <li><a href="https://drive.google.com/drive/folders/1Qs-xBaJ0A-8BdNQOOhxYKbXQw3RQMxuT"  rel="noopener noreferrer" target="_blank">
+                            <li><a href="https://drive.google.com/file/d/1gI0IZuz2WZL8H7CxLOFDwApnyEwgpRkE/view?usp=sharing"  rel="noopener noreferrer" target="_blank">
                             <Button>See certificate</Button>
                         </a></li>
                         </ul>
