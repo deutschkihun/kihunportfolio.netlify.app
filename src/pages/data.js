@@ -2,6 +2,7 @@ import login_out from './common/dataimage/login_out.jpg'
 import webpage from './common/dataimage/webpage.jpg'
 import sport from './common/dataimage/sport.png'
 import seminar from './common/dataimage/seminar.png'
+import moblity from './common/dataimage/mobility.jpeg';
 const projects = [
   {
     id: 1,
@@ -37,7 +38,7 @@ const projects = [
         id: 4,
         title: 'Bachelor Thesis: user preference service for mobility planning',
         stack: 'Flutter, Spring Boot',
-        img: mobility,
+        img: moblity,
         desc: `Boilerplate is a base application so that it can be used any advanced application or projects. This project aims to make a boilerplate for login and out.
                Because login and out system is needed almost every webpage or system. So this project include basic priciple of login and out system, authentication, authorization,
                token, cookie,session. Expectation after this project is that novice feel comfortable how to make login and out system`,
