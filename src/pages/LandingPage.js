@@ -71,7 +71,7 @@ function LandingPage() {
                         <FaCode style={{ fontSize: '3rem' }}/> &nbsp; Life motto &nbsp; <FaCode style={{ fontSize: '3rem' }}/>
                     </p>
                     <span style={{display:'flex',justifyContent:'center',fontSize:'2rem', fontFamily:'Comic Sans MS, Comic Sans, cursive'}}>
-                      No pain no gain.... keep going !! you're doing well </span>
+                      For Everything a Season </span>
                 </div>
                 <br/>
                 <br/>
