@@ -2,7 +2,7 @@ import login_out from './common/dataimage/login_out.jpg'
 import webpage from './common/dataimage/webpage.jpg'
 import sport from './common/dataimage/sport.png'
 import seminar from './common/dataimage/seminar.png'
-import moblity from './common/dataimage/mobility.jpeg';
+import moblity from './common/dataimage/mobility.jpg';
 const projects = [
   {
     id: 1,
